@@ -11,7 +11,7 @@
 <hr>
 <div align="center">
     <h3> What </h3>
-  <h5>I make computers do precise single actions to what you need them to solve specific requests. Or million of requests.
+  <h5>I make computers take precise action to solve your specific request. Or million of requests.At the same time.
 Save time, grow your business, automate your work.</h5>
 </div>
 <hr>
@@ -43,5 +43,5 @@ Save time, grow your business, automate your work.</h5>
 <hr>
 <div align="center">
   <h3> When </h3>
-<h3>Professionally since 2017.</h3>
+<h5>Professionally since 2017.</h5>
 </div>
