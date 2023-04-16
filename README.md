@@ -11,8 +11,8 @@
 <hr>
 <div align="center">
     <h3> What </h3>
-  <b> I make computers do what you need them to do.</b>
-<h3>Save time, grow your business, automate your work.</h3>
+  <h5>I make computers do precise single actions to what you need them to solve specific requests. Or million of requests.
+Save time, grow your business, automate your work.</h5>
 </div>
 <hr>
 <div align="center">
