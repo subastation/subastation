@@ -14,6 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img width="100px" src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif">
+  <h3>Hello there!<h3>
+</div>
+<hr>
+<div id="hello" align="center">
+    <h3> WHO AM I </h3>
+  <h5>I am Pietro, my goal is to provide tailored solutions aimed to solve complex problems through my knowledge in IT.<br>I'm a Certified Systems Engineer with a focus on automation and virtualization.</h5>
+</div>
+<hr>
+<div align="center">
+    <h3> WHAT DO I DO </h3>
+  <h5> I make computers do what you need them to do.</h5>
+<h3>Save time, grow your business, automate your work.</h3>
+</div>
+<hr>
+<div align="center">
+  <h4>Experience with</h4>
+ 
 ![Linux](https://img.shields.io/badge/Linux-blue)
 ![Bash](https://img.shields.io/badge/Bash-black)
 ![System Administration](https://img.shields.io/badge/System_Administration-brightgreen)
