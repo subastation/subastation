@@ -5,14 +5,13 @@
 </div>
 <hr>
 <div id="hello" align="center">
-    <h3> Who </h3>
-  <h5>I am Pietro, my goal is to provide tailored solutions aimed to solve complex problems through my knowledge in IT.<br>I'm a Certified Systems Engineer with a focus on automation and virtualization.</h5>
+    <h3> ? </h3>
+  <h5><br>I'm a Certified Systems Engineer with a focus on automation and content creation.</h5>
 </div>
 <hr>
 <div align="center">
-    <h3> What </h3>
-  <h5>I make computers take precise action to solve your specific request. Or million of requests.At the same time.
-Save time, grow your business, automate your work.</h5>
+    <h3> What? </h3>
+  <h5>... a Linux cat, and I likes cars.</h5>
 </div>
 <hr>
 <div align="center">
@@ -43,5 +42,5 @@ Save time, grow your business, automate your work.</h5>
 <hr>
 <div align="center">
   <h3> When </h3>
-<h5>Professionally since 2017.</h5>
+<h5>Professionally since 2017</h5>
 </div>
