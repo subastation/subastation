@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img width="120px" src="https://media.giphy.com/media/JDZScKtRfiur4HRWPz/giphy.gif">
+  <img width="120px" src="https://pixeljoint.com/files/icons/full/4004_simu_part.gif">
   <h2>Ciao! 👋 I'm Pietro</h2>
 </div>
 
