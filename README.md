@@ -12,7 +12,7 @@ I build **automation solutions**, teach Linux, and explore **AI for content auto
 I also love **cars, sound engineering, and video production**.  
 
 🔧 **Currently working on:**  
-- 🚀 Developing my own **SaaS product**(https://www.landerino.com) 
+- 🚀 Product development
 - 🎓 Teaching **Linux courses**
 - 🤖 Integrating **AI into automation**
 - 🛠️ Working with **Ansible, DevOps, and CI/CD**
@@ -44,8 +44,6 @@ I also love **cars, sound engineering, and video production**.
 
 ### 📫 Get in Touch!
 💼 [LinkedIn](#)  
-📧 [Email](#)  
-🐦 [Twitter](#)  
 
 ---
 
